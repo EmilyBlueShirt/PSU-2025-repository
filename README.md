@@ -1,7 +1,7 @@
 # Penn State Summer Research 2025
 ## Fixture Design for Shear Wave Generation in Fused Silica
 
-**Researcher:** Emily Vanegas  
+**Researcher:** Emily V 
 **Host Institution:** Pennsylvania State University  
 **Programs:** Penn State Summer Research Opportunities Program (SROP) / Acoustical Society of America SURIEA  
 **Faculty Mentor:** Dr. Andrea P. Argüelles  
