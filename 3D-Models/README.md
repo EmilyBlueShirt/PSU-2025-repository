@@ -1,23 +1,33 @@
 # 3D-Printed Ultrasonic Testing Fixtures
 
-This folder contains original 3D models and STL files developed during my Summer 2025 research at Penn State University.
+This folder contains original 3D models and STL files developed during my Summer 2025 research at Penn State University under Dr. Andrea P. Argüelles.
 
-The fixtures were designed in Autodesk Fusion 360 to support ultrasonic immersion testing of fused silica using a through-transmission configuration.
+The fixtures were designed using Autodesk Fusion 360, 3D-printed in the laboratory, and used to support ultrasonic immersion testing of fused silica in a through-transmission configuration.
 
 ## Design Variations
 
-Although the fixtures may appear visually similar, each design accommodates different experimental parameters, including:
+Although the fixtures may appear visually similar, each design was developed to accommodate different experimental parameters, including:
 
-- **Sample thickness:** Different material thicknesses require adjustments to the expected ultrasonic wave path and receiver positioning.
-- **Transducer angles:** Different incident angles affect how ultrasonic waves refract as they enter the fused silica sample.
-- **Transducer alignment:** Each configuration incorporates geometric adjustments to position the transmitting and receiving transducers along the calculated wave path.
+- **Sample thickness:** Different material thicknesses required adjustments to the expected ultrasonic wave path and receiver positioning.
+- **Transducer angles:** Different incident angles influenced ultrasonic wave refraction and shear-wave generation within the fused silica.
+- **Transducer alignment:** Each configuration incorporated geometric adjustments to position the transmitting and receiving transducers along the calculated wave path.
 
 I applied Snell's law and trigonometric calculations to determine the appropriate fixture geometry for each configuration.
 
-These differences produce distinct predicted wave paths, receiver offsets, and experimental alignment requirements.
+These variations resulted in different predicted wave paths and alignment requirements.
 
-## Purpose
+## Fabrication and Experimental Application
 
-The objective was to develop and 3D-print custom fixtures that support consistent transducer positioning and allow researchers to investigate shear-wave propagation under different testing conditions.
+Following the CAD design process, the fixtures were converted into STL files and 3D-printed to create physical prototypes for laboratory testing.
 
-Together, these models demonstrate the iterative design process used to translate acoustic principles and mathematical calculations into physical experimental hardware.
+The printed fixtures were used to support the positioning and alignment of ultrasonic transducers during immersion testing. Their geometries were designed around the calculated wave paths for different sample thicknesses and incident angles.
+
+This process allowed me to translate mathematical calculations and digital models into functional laboratory components.
+
+## Project Significance
+
+This work combined computational modeling, CAD design, additive manufacturing, and hands-on experimental research.
+
+The resulting fixtures demonstrate an iterative engineering process in which theoretical calculations informed physical designs that could be fabricated and applied to ultrasonic testing.
+
+The project strengthened my experience in engineering prototyping, experimental hardware development, and technical problem-solving.
